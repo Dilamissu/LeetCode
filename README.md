@@ -13,7 +13,7 @@
 
  先由target減下目前數字確認是否另一半已在map裡，若有，便將兩個index回傳；若無，便匠先在的數字與index放入amp中。
 
-### F412. Fizz Buzz
+### 412. Fizz Buzz
 
 方法:
 For loops對應cases
